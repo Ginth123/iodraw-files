@@ -1,12 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="FRhNJV71t7HbN3WVDRB5">
-    <mxGraphModel dx="1697" dy="2194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6cwO9Mm_2pafmxLfC_Uf-14" value="医疗知识图谱构建模块" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1996" y="138" width="209" height="209" as="geometry" />
-        </mxCell>
         <mxCell id="6cwO9Mm_2pafmxLfC_Uf-28" value="模型迭代 (联邦学习)" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.78;entryY=1;rounded=0;" edge="1" parent="1" source="6cwO9Mm_2pafmxLfC_Uf-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -24,14 +21,6 @@
               <mxPoint x="1530" y="162" />
             </Array>
             <mxPoint x="1368.3599999999997" y="274" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6cwO9Mm_2pafmxLfC_Uf-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.34;entryX=0;entryY=0.33;rounded=0;" edge="1" parent="1" target="6cwO9Mm_2pafmxLfC_Uf-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1913" y="178" />
-            </Array>
-            <mxPoint x="1790.606060606061" y="216.1060606060605" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
