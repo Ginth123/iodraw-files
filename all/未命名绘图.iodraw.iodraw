@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="FRhNJV71t7HbN3WVDRB5">
-    <mxGraphModel dx="3351" dy="2194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4178" dy="2194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="1244" y="20" width="985" height="847" as="geometry" />
         </mxCell>
         <mxCell id="6cwO9Mm_2pafmxLfC_Uf-2" value="智能可穿戴设备层 (用户端)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="887" width="1435" height="550" as="geometry" />
+          <mxGeometry x="-250" y="207" width="1435" height="550" as="geometry" />
         </mxCell>
         <mxCell id="6cwO9Mm_2pafmxLfC_Uf-3" value="智能护具" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="45" y="1236" width="124" height="49" as="geometry" />
@@ -97,6 +97,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1122" y="977" />
+              <mxPoint x="1180" y="990" />
               <mxPoint x="1244" y="977" />
             </Array>
           </mxGeometry>
@@ -234,18 +235,6 @@
               <mxPoint x="1913" y="269" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="6cwO9Mm_2pafmxLfC_Uf-42" value="智能可穿戴设备层 (用户端)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1460" width="2289" height="887" as="geometry" />
-        </mxCell>
-        <mxCell id="6cwO9Mm_2pafmxLfC_Uf-43" value="多模态交互模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2023" y="1495" width="669" height="124" as="geometry" />
-        </mxCell>
-        <mxCell id="6cwO9Mm_2pafmxLfC_Uf-46" value="骨传导音频模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="6cwO9Mm_2pafmxLfC_Uf-43">
-          <mxGeometry x="470" y="46" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="6cwO9Mm_2pafmxLfC_Uf-71" value="此架构确保全程守护，实现智慧康复。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="465" y="2382" width="252" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
