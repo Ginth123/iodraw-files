@@ -241,12 +241,6 @@
         <mxCell id="6cwO9Mm_2pafmxLfC_Uf-43" value="多模态交互模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2023" y="1495" width="669" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="6cwO9Mm_2pafmxLfC_Uf-44" value="AR/VR渲染单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="6cwO9Mm_2pafmxLfC_Uf-43">
-          <mxGeometry x="43" y="46" width="171" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="6cwO9Mm_2pafmxLfC_Uf-45" value="触觉反馈马达" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="6cwO9Mm_2pafmxLfC_Uf-43">
-          <mxGeometry x="264" y="46" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="6cwO9Mm_2pafmxLfC_Uf-46" value="骨传导音频模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="6cwO9Mm_2pafmxLfC_Uf-43">
           <mxGeometry x="470" y="46" width="172" height="49" as="geometry" />
         </mxCell>
