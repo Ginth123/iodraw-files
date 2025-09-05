@@ -7,7 +7,7 @@
         <mxCell id="5wvs7XqSBPjG1siDtKUc-51" value="问题一解决思路：基于双角度反射光谱的薄膜厚度无损确定" style="whiteSpace=wrap;strokeWidth=2;fillColor=#0d0d0d;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="637" y="1150" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-52" value="核心目标：利用两个不同入射角下的反射光谱数据，建立数学模型，精确求解碳化硅外延层厚度 d" style="rounded=1;arcSize=20;strokeWidth=2;fontColor=#faf9f9;strokeColor=#f7f7f7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5wvs7XqSBPjG1siDtKUc-52" value="核心目标：利用两个不同入射角下的反射光谱数据，建立数学模型，精确求解碳化硅外延层厚度 d" style="rounded=1;arcSize=20;strokeWidth=2;fontColor=#faf9f9;strokeColor=#0d0d0d;fillColor=#0f0f0f;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="652" y="1284" width="222" height="101" as="geometry" />
         </mxCell>
         <mxCell id="5wvs7XqSBPjG1siDtKUc-53" value="第一步：问题分析与物理现象识别" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
