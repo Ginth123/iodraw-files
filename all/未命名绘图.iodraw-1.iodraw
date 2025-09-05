@@ -1,87 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2000" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-0" value="基于双角度反射光谱的薄膜厚度无损确定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="310" width="252" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-1" value="核心目标: 精确求解SiC外延层厚度d" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="44" y="426" width="205" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-2" value="第一步: 问题分析与物理现象识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="28" y="543" width="236" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-3" value="数据特征分析: 薄膜干涉现象" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="659" width="132" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-4" value="物理模型确立: 光线在外延层上下表面反射叠加干涉" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="35" y="775" width="222" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-5" value="核心挑战识别: d和n未知, 构成欠定问题" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="42" y="909" width="208" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-6" value="解决路径确立: 利用双角度数据建立二元方程组" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="35" y="1025" width="222" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-7" value="第二步: 理论建模与公式推导" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="44" y="1159" width="204" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-8" value="建立光程差(OPD)模型: Δ=2dncos(θ₂)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="51" y="1275" width="189" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-9" value="建立干涉条件: Δ=mλ" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="58" y="1392" width="176" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-10" value="模型参数转换: 波数ν=1/λ" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="41" y="1490" width="211" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-11" value="引入核心求解工具: 自由光谱范围(FSR) Δν" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="53" y="1589" width="185" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-12" value="建立最终模型方程: Δν = 1/(2d√(n²-sin²(θ₁)))" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="46" y="1705" width="199" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-13" value="第三步: 模型求解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="55" y="1821" width="183" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-14" value="建立方程组: 两个角度(10°, 15°)下的Δν方程" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="35" y="1920" width="222" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-15" value="从数据中提取参数: 寻峰算法获取ν, 计算平均Δν_a和Δν_b" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="57" y="2036" width="179" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-16" value="代数求解: 方程相除消去d, 求解n; 代回求解d" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="38" y="2170" width="215" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-17" value="第四步: 算法实施与验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="31" y="2287" width="231" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-18" value="数据处理: 导入附件数据" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="46" y="2385" width="201" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-19" value="寻峰与计算: MATLAB等工具定位波峰, 计算平均FSR值" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="44" y="2484" width="204" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-20" value="结果计算: 将参数代入解析公式, 得到d和n的数值解" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="56" y="2618" width="180" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-21" value="备选方案: 线性回归法进行替代或验证" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="35" y="2752" width="222" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-22" value="比较两种方法的结果" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="59" y="2868" width="174" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-23" value="第五步: 结论总结" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="55" y="2967" width="183" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-24" value="总结建模求解过程, 给出最终外延层厚度d和折射率n" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="39" y="3065" width="215" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="5wvs7XqSBPjG1siDtKUc-25" value="为后续问题分析提供关键宏观参数" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="35" y="3199" width="222" height="66" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
